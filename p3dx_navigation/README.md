@@ -5,7 +5,7 @@ ROS package navigation to Pioneer P3-DX
 - Clone the package folder
 
 		$ cd ~/catkin_ws/src
-		$ git clone https://github.com/LCAD-UFES/p3dx_navigation.git
+		$ git clone https://github.com/naveenkumar2208/Pioneer3DX-NAV.git
 		$ cd ..
 		$ catkin_make
 
